@@ -1,0 +1,16 @@
+{
+    "users": {
+        "alice": {
+            "password": "c29tZXBvdA==",
+            "failed_attempts": 0
+        },
+        "bob": {
+            "password": "dGhpcyBwYXNzd29yZA==",
+            "failed_attempts": 0
+        },
+        "charlie": {
+            "password": "aGVsbG8gd29ybGQ=",
+            "failed_attempts": 0
+        }
+    }
+}
